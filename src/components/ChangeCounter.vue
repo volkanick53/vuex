@@ -1,6 +1,6 @@
 <template>
     <button @click="addOne">
-        Add 1
+        Add 2
         
     </button>
 </template>
