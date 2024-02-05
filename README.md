@@ -1,4 +1,4 @@
-# pokedex
+# Vuex
 ## Description
 App for grasping the basics of vuex
 ## Project setup
